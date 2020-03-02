@@ -1,7 +1,7 @@
 ScopeTester
 ==============
 
-Simple script to check if a list of IPs are within the provided network scopes
+Python script to check if a list of IPs are within the provided network scopes
 
 
 ## Usage:
